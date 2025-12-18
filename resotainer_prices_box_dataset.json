@@ -1,0 +1,142 @@
+[
+  {
+    "capacity_m2":1.5,
+    "external_length_mm":2330.0,
+    "external_width_mm":1480.0,
+    "external_height_mm":2400.0,
+    "capacity_m3":2.2,
+    "price_from":20.0,
+    "capacity_equivalent":"box pour petits objets",
+    "source":"https://resotainer.fr"
+  },
+  {
+    "capacity_m2":3.3,
+    "external_length_mm":2330.0,
+    "external_width_mm":1480.0,
+    "external_height_mm":2400.0,
+    "capacity_m3":4.5,
+    "price_from":34.0,
+    "capacity_equivalent":"stockage d'un petit studio",
+    "source":"https://resotainer.fr"
+  },
+  {
+    "capacity_m2":4.0,
+    "external_length_mm":2500.0,
+    "external_width_mm":2000.0,
+    "external_height_mm":2400.0,
+    "capacity_m3":5.5,
+    "price_from":56.0,
+    "capacity_equivalent":"stockage d'un petit appartement",
+    "source":"https://resotainer.fr"
+  },
+  {
+    "capacity_m2":4.5,
+    "external_length_mm":3000.0,
+    "external_width_mm":2500.0,
+    "external_height_mm":2500.0,
+    "capacity_m3":8.5,
+    "price_from":41.0,
+    "capacity_equivalent":"stockage d'un studio ou cave",
+    "source":"https://resotainer.fr"
+  },
+  {
+    "capacity_m2":5.0,
+    "external_length_mm":3200.0,
+    "external_width_mm":2500.0,
+    "external_height_mm":2500.0,
+    "capacity_m3":9.0,
+    "price_from":65.0,
+    "capacity_equivalent":"stockage d'un petit appartement",
+    "source":"https://resotainer.fr"
+  },
+  {
+    "capacity_m2":7.0,
+    "external_length_mm":4000.0,
+    "external_width_mm":3000.0,
+    "external_height_mm":2500.0,
+    "capacity_m3":12.5,
+    "price_from":55.0,
+    "capacity_equivalent":"stockage d'un grand appartement",
+    "source":"https://resotainer.fr"
+  },
+  {
+    "capacity_m2":9.0,
+    "external_length_mm":4500.0,
+    "external_width_mm":3000.0,
+    "external_height_mm":2500.0,
+    "capacity_m3":15.5,
+    "price_from":62.0,
+    "capacity_equivalent":"stockage pour un grand appartement",
+    "source":"https://resotainer.fr"
+  },
+  {
+    "capacity_m2":10.5,
+    "external_length_mm":5000.0,
+    "external_width_mm":3500.0,
+    "external_height_mm":2500.0,
+    "capacity_m3":17.0,
+    "price_from":65.0,
+    "capacity_equivalent":"stockage pour un grand appartement",
+    "source":"https://resotainer.fr"
+  },
+  {
+    "capacity_m2":11.0,
+    "external_length_mm":5500.0,
+    "external_width_mm":3500.0,
+    "external_height_mm":2500.0,
+    "capacity_m3":20.0,
+    "price_from":79.0,
+    "capacity_equivalent":"stockage pour un tr\u00e8s grand appartement",
+    "source":"https://resotainer.fr"
+  },
+  {
+    "capacity_m2":14.0,
+    "external_length_mm":6000.0,
+    "external_width_mm":4000.0,
+    "external_height_mm":2500.0,
+    "capacity_m3":24.0,
+    "price_from":77.0,
+    "capacity_equivalent":"stockage d'un entrep\u00f4t",
+    "source":"https://resotainer.fr"
+  },
+  {
+    "capacity_m2":19.0,
+    "external_length_mm":7000.0,
+    "external_width_mm":4000.0,
+    "external_height_mm":3000.0,
+    "capacity_m3":30.0,
+    "price_from":155.0,
+    "capacity_equivalent":"stockage industriel",
+    "source":"https://resotainer.fr"
+  },
+  {
+    "capacity_m2":21.0,
+    "external_length_mm":7500.0,
+    "external_width_mm":4000.0,
+    "external_height_mm":3000.0,
+    "capacity_m3":35.0,
+    "price_from":169.0,
+    "capacity_equivalent":"stockage pour tr\u00e8s gros volumes",
+    "source":"https://resotainer.fr"
+  },
+  {
+    "capacity_m2":25.0,
+    "external_length_mm":8000.0,
+    "external_width_mm":4500.0,
+    "external_height_mm":3000.0,
+    "capacity_m3":40.0,
+    "price_from":194.0,
+    "capacity_equivalent":"stockage commercial \/ industriel",
+    "source":"https://resotainer.fr"
+  },
+  {
+    "capacity_m2":28.0,
+    "external_length_mm":9000.0,
+    "external_width_mm":5000.0,
+    "external_height_mm":3500.0,
+    "capacity_m3":45.0,
+    "price_from":228.0,
+    "capacity_equivalent":"stockage industriel \/ logistique",
+    "source":"https://resotainer.fr"
+  }
+]
